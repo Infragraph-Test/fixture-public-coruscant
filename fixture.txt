@@ -1,0 +1,3 @@
+Repository: fixture-public-coruscant
+Branch: feature/alpha
+Revision: 1
